@@ -1,6 +1,6 @@
 # 텐서플로우 첫걸음 : 도구(Toolkit)
 
-## 에스티메이터(tf.estimator)
+## 에스티메이터(`tf.estimator`)
 
 - 고수준 OOP API
 - 코드 행 수가 줄어듦
